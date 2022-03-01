@@ -1,0 +1,1190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general note of the price of binding all sorts of books agreed on by the book-binders whose names are under-written.  As it was presented to the master, wardens, and assistants of the Worshipful Company of Stationers, August the 2d, 1669.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09182</idno>
+            <idno type="STC">Wing G504A</idno>
+            <idno type="STC">ESTC R224334</idno>
+            <idno type="EEBO-CITATION">64551289</idno>
+            <idno type="OCLC">ocm 64551289</idno>
+            <idno type="VID">184588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184588)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general note of the price of binding all sorts of books agreed on by the book-binders whose names are under-written.  As it was presented to the master, wardens, and assistants of the Worshipful Company of Stationers, August the 2d, 1669.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Roger L' Estrnage,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>September 23, 1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside creased with slight loss of print.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stationers' Company (London, England).</term>
+               <term>Bookbinding --  England --  Early works to 1800.</term>
+               <term>Bookbinding industry --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:184588:1"/>
+            <head>A General Note of the Prices of Binding all ſorts of Books Agreed on by the Book-binders, whoſe Names are under-written. As it was preſented to the Maſter, Wardens, and Aſſiſtants of the Worſhipful Company of Stationers, <hi>Auguſt,</hi> the <hi>2d,</hi> 1669.</head>
+            <p>
+               <table>
+                  <head>Ogilby's Bibles in Fo<g ref="char:EOLhyphen"/>lio, or the like.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>GIlt Edges in one Volumn</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets only</cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Plain Ovals</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Bibles in ſmall Folio,</hi> London, <hi>or the like.</hi>
+                  </head>
+                  <row>
+                     <cell>Edges and Fillets</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Bibles in Quarto,</hi> Cam<g ref="char:EOLhyphen"/>bridg, <hi>or the like.</hi>
+                  </head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Bibles in Octavo, Bre<g ref="char:EOLhyphen"/>vere, or the like.</head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Bibles in Octavo, Non<g ref="char:EOLhyphen"/>peril, or the like.</head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Bibles in 12.</head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Bibles in</hi> 24.</head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Service-Book, Teſta<g ref="char:EOLhyphen"/>ment, and Pſalms, Brevere, Octavo.</head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Service Brevere in</hi> 12. <hi>&amp; Pſalms, or otherwiſe</hi>
+                  </head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>Ovals</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Service in</hi> 24. <hi>with Pſalms, &amp;c.</hi>
+                  </head>
+                  <row>
+                     <cell>Edges Extraordinary</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Edges Ordinary</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Fillets</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Plain</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Books in Folio, Latin.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Atlas Major,</hi> 3 <hi>Vol.</hi> or the like, Rolls</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ariſtot.</hi> 2 <hi>Vol.</hi> Rolls</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lexicon Poliglott,</hi> or the like, 2 Vol.</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> in one Vol. Rolles</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Plutarchi Opera,</hi> 2 Vol. or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lipſius in Senecam</hi> or the like</cell>
+                     <cell rows="3">0</cell>
+                     <cell rows="3">03</cell>
+                     <cell rows="3">06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lipſius in Jacitum</hi> or the like</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Buxtorph. Heb. Bib.</hi> or the like</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Corpus Juris Civ.</hi> one Vol.</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>In 2 Vol. or the like</cell>
+                     <cell>0</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Critici Sacri,</hi> 9 Vol. or the like, Rolles</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scapulae Lexicon, Grotius in Vet. Teſt.</hi> or the like</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ravanella. S.</hi> 3 <hi>Vol.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eſtius in Epiſt.</hi> or the like, one Vol.</cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brennius in Bib. Gerardi Loci Com.</hi> 4 Vol. or the like</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Books in Quarto, Latin.</head>
+                  <row>
+                     <cell>
+                        <hi>Sculteti Medulla</hi> Rolls</cell>
+                     <cell rows="3">0</cell>
+                     <cell rows="3">01</cell>
+                     <cell rows="3">04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mellificium Hiſt.</hi> Rolls</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Voſii Gram.</hi> or the like Rolls</cell>
+                  </row>
+                  <row>
+                     <cell>All Latin Books in Quarto, large &amp; thick</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>If not thick</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>All Latin Books, Pot-paper, Rolls, Thick,</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>If not thick</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Books in</hi> 8. 12. <hi>and</hi> 24.</head>
+                  <row>
+                     <cell>
+                        <hi>Serevelius</hi>'s <hi>Lexicon, Octo,</hi> large</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Virgil, Horatius vel Paterculius,</hi> and the like Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>All thick Octo. Latin, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Octo.</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>All Twelves and Sixteens</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>All Twenty fours</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Books in Folio, Engliſh.</head>
+                  <row>
+                     <cell>
+                        <hi>Ogilby's China, Virgil,</hi> all his other Books, or the like, in ſingle Vol. Marble Fillets</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aeſop</hi> compleat in one, <hi>Iliads</hi> and <hi>Odyſſes</hi> in one, or the like, Marble Fillets</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The ſame Books plain</cell>
+                     <cell>0</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The ſame Books ſingle</cell>
+                     <cell>0</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kings</hi> Works, or the like</cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hammond</hi> on N. Teſtament</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">03</cell>
+                     <cell rows="2">00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poultons</hi> Stat. or the like, Rolls</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Davilo</hi>'s Hiſt. or the like</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">03</cell>
+                     <cell rows="2">00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rawleighs</hi> Hiſt. or the like</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Plutarch</hi>'s Lives or the like</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">02</cell>
+                     <cell rows="2">06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoylins</hi> Coſmog. or the like</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cotgraves</hi> Dict. <hi>Bakers</hi> Chronicle,</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">02</cell>
+                     <cell rows="2">00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Taylors</hi> Caſes of Conſcience, Rolls</cell>
+                  </row>
+                  <row>
+                     <cell>Life of Chriſt, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hammond</hi> on Pſalmes</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">01</cell>
+                     <cell rows="2">08</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spotſwood</hi> Hiſt, or the like</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caſſandra,</hi> or the like</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Small Folio.</head>
+                  <row>
+                     <cell>
+                        <hi>Fullers</hi> Holy War</cell>
+                     <cell rows="4">0</cell>
+                     <cell rows="4">01</cell>
+                     <cell rows="4">04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hubbards</hi> Reports</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baccalin,</hi> and the like</cell>
+                  </row>
+                  <row>
+                     <cell>All Pot Folio's ſmall</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Books in Quarto, Engliſh.</head>
+                  <row>
+                     <cell>
+                        <hi>Goldman,</hi> or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hughs</hi> Grand Abridgment, being 3 Vol. Rolls</cell>
+                     <cell>0</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Weſts</hi> Preſidents. <hi>Thomas</hi> Dict. or the like</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carells</hi> twelfth part, or the like</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baxters</hi> Saints Reſt</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baxters</hi> Reaſons, Rolls. And all ſuch Engliſh Quarto's thick</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>All ſmall Pot-paper Quarto's Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Books in Octavo, Engliſh.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>All large Octo. <hi>Decay of Piety,</hi> or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Taylors</hi> Living and Dying, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Crown Octavo's</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>All Pot Octavo's, <hi>Quarles</hi> Poems, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Books in</hi> 12. <hi>and</hi> 24.</head>
+                  <row>
+                     <cell>All large Twelves</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>All ſmall Twelves and Twenty-four's</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Sheeps Leather, Folio's.</head>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>man Empire, or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Newes</hi> Reports, or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>All thick Pot Follio's</cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Pot</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Large Quarto, Sheep.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Placita Redivia,</hi> or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Crown Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>All Fools-Cap, or the like, Rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Quarto's Pot-paper, Sheep.</head>
+                  <row>
+                     <cell>
+                        <hi>Stillingfleets Origines Sacra,</hi> or the like, rolls</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>All thick Pot</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>All thin Pot</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Octavo's Large.</head>
+                  <row>
+                     <cell>Decay of Piety, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>Gent. Callings, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Records</hi> Arithm, <hi>Eraſmus</hi> Colloq.</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">04</cell>
+                  </row>
+                  <row>
+                     <cell>Teſtaments Octo. Rom. or the like</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Crown, and all Fools-Cap</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Octavo Pot.</head>
+                  <row>
+                     <cell>Teſt. Octo. Com. <hi>Quarles</hi> Poems. <hi>Randolphs</hi> Poems. <hi>Hools</hi> Cor<g ref="char:EOLhyphen"/>derius, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Pot</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Large Twelves.</head>
+                  <row>
+                     <cell>Preſent State of <hi>Eng.</hi> Pr. of Piety, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Meads</hi> almoſt a Chriſt. Ac. of Com. the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Redemption of Time, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>0<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Pot Twelves.</head>
+                  <row>
+                     <cell>
+                        <hi>Baxters</hi> Call. Doct. Bible, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Twenty-four's.</head>
+                  <row>
+                     <cell>Practice of Piety, or the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gerrards</hi> Meditat. Crums of Comf. the like</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>All thin Twenty-four's</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>All ſorts of Thin Books, Sheeps-Leather Fillets,</head>
+                  <row>
+                     <cell>As Grammars, Pſalters</cell>
+                     <cell rows="2">0</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">0<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Small 12s, 24s, and 32s.</cell>
+                  </row>
+                  <row>
+                     <cell>Primmers Gilt, the Groſs</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Primmers Plain, the Groſs</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Thomas Hunt.</item>
+                     <item>Samuel Mearn.</item>
+                     <item>Thomas Raw.</item>
+                     <item>George Everſden.</item>
+                     <item>George Calvert.</item>
+                     <item>William Richardſon.</item>
+                     <item>Edward Powel.</item>
+                     <item>Robert Cutler.</item>
+                     <item>Hilliam Harris.</item>
+                     <item>William Rands.</item>
+                     <item>Humphry Toy.</item>
+                     <item>William Branch.</item>
+                     <item>Edward Gough.</item>
+                     <item>Francis Hyarne.</item>
+                     <item>Henry Evans.</item>
+                     <item>Joſeph Moore.</item>
+                     <item>John Downs.</item>
+                     <item>William Sherington.</item>
+                     <item>Robert Deevs.</item>
+                     <item>Thomas Hodyſon.</item>
+                     <item>Thomas Cooper.</item>
+                     <item>William Terry.</item>
+                     <item>Joſeph Cater.</item>
+                     <item>John Homerſham.</item>
+                     <item>Nathan Brookes.</item>
+                     <item>Edward Eccleſton.</item>
+                     <item>Chriſtopher Lingerd.</item>
+                     <item>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>Richard Olliffe.</item>
+                     <item>Thomas Allſop.</item>
+                     <item>William Potter.</item>
+                     <item>James Lammas.</item>
+                     <item>William Redmoyne.</item>
+                     <item>Peter Scarlot.</item>
+                     <item>Robert Smith.</item>
+                     <item>John Fletcher.</item>
+                     <item>Thomas Kequick.</item>
+                     <item>Richard Dew.</item>
+                     <item>John Biſhop.</item>
+                     <item>Walter Dunn.</item>
+                     <item>William Maſon.</item>
+                     <item>John Mendey.</item>
+                     <item>Williams Stephens.</item>
+                     <item>William Willis.</item>
+                     <item>Walters Davis.</item>
+                     <item>Martin Barnham.</item>
+                     <item>Langlie Curtis.</item>
+                     <item>Robert Cox.</item>
+                     <item>Jonathan Adams.</item>
+                     <item>Richard Littleton.</item>
+                     <item>John Hewet.</item>
+                     <item>John Shepherd.</item>
+                     <item>Richard Barnes.</item>
+                     <item>William Baker.</item>
+                     <item>Thomas Hartley.</item>
+                     <item>Samuel Freeman.</item>
+                     <item>William Curtis.</item>
+                     <item>William Veery.</item>
+                     <item>Samuel Cook.</item>
+                     <item>Joſhua Mitchel.</item>
+                     <item>Joſhua Conuiers.</item>
+                     <item>Samuel Sprint.</item>
+                     <item>John Grover.</item>
+                     <item>William Charles.</item>
+                     <item>Richard Sympſon.</item>
+                     <item>William Hilliard.</item>
+                     <item>Richard Janua.</item>
+                     <item>Gregory Pool.</item>
+                     <item>George Bale.</item>
+                     <item>William Biſhop.</item>
+                     <item>Adam Winch.</item>
+                     <item>Thomas Brown.</item>
+                     <item>James Parkhurſt.</item>
+                     <item>John Shrimton.</item>
+                     <item>John Spicer.</item>
+                     <item>Richard Hewes.</item>
+                     <item>Robert Finnis.</item>
+                     <item>John Major.</item>
+                     <item>Nathaniel Oldfield.</item>
+                     <item>Daniel Barber.</item>
+                     <item>James Hatton.</item>
+                     <item>William Goff.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <date>
+                  <hi>September</hi> 23. 1669.</date>
+               <signed>ROGER L'ESTRANGE.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
